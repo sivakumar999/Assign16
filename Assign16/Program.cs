@@ -1,5 +1,6 @@
 ﻿using System;
-
+namespace Assign16
+{
 public class BankAccount
 {
     private static int nextAccountNumber = 1;
@@ -73,4 +74,4 @@ public class Program
         Console.ReadKey();
     }
 }
-
+}
